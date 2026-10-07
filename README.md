@@ -18,6 +18,9 @@
       - [Learn to Code](#learn-to-code)
     - [Articles](#articles)
     - [3rd Party](#3rd-party)
+    - [Google Postmaster Tools](https://www.gmail.com/postmaster/)
+     - [SFMC Engagement Maturity Assessment (free, by Mavlers)](https://www.mavlers.com/sfmc-maturity-assessment/)
+    - 
 
 ---
 
